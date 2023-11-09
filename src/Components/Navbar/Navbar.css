@@ -1,0 +1,16 @@
+.Navbar-links{
+    display: flex;
+    gap: 20px;
+}
+
+.NavIconLogo{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}
+
+.NavIconLogo > i{
+    font-size: 1.5em;
+    font-weight: 800;
+}
